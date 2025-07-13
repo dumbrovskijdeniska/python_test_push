@@ -33,7 +33,7 @@ while True:
             num1 = float(input("Введите первое число: "))
             num2 = float(input("Введите второе число: "))
         except ValueError:
-            print("444. Пожалуйста, введите числа.")
+            print("555. Пожалуйста, введите числа.")
             continue
 
         if choice == '1':
